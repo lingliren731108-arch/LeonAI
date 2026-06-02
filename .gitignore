@@ -1,0 +1,41 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# User Workspace data
+workspace/
+!workspace/.gitkeep
+
+# Python cache & venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.pytest_cache/
+
+# Node dependencies and builds
+node_modules/
+dist/
+build/
+.eslintcache
+
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE / Editor folders
+.vscode/
+.idea/
+.claude/
+.gemini/
+antigravity/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
