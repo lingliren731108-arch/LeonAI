@@ -1,6 +1,6 @@
 # Leon AI - Lightweight  Development Tool
 
-Leon AI is a lightweight, multi-user development platform designed to facilitate user development. It integrates a React-based front-end workspace with a FastAPI back-end, supporting real-time AI assistance, code editing, previewing, and workspace terminal execution.
+Leon AI is a lightweight, multi-user development platform designed to facilitate user development, based on Claude Code. It integrates a React-based front-end workspace with a FastAPI back-end, supporting real-time AI assistance, code editing, previewing, and workspace terminal execution.
 
 ---
 
