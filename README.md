@@ -1,4 +1,4 @@
-# Leon AI - Lightweight Prototyping & Development Tool
+# Leon AI - Lightweight  Development Tool
 
 Leon AI is a lightweight, multi-user prototype development platform designed to streamline software prototyping. It integrates a React-based frontend workspace with a FastAPI backend, enabling real-time AI assistance, code editing, previewing, and workspace terminal execution.
 
